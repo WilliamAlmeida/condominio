@@ -1,0 +1,25 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-DiwZlRyh.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-B7V-q-_k.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/plugins/set-tenant-header.js"
+    ],
+    "css": [
+      "assets/app-EN9UeRI4.css"
+    ]
+  },
+  "resources/plugins/set-tenant-header.js": {
+    "file": "assets/set-tenant-header-1VsoYqd9.js",
+    "name": "set-tenant-header",
+    "src": "resources/plugins/set-tenant-header.js",
+    "isDynamicEntry": true
+  }
+}
